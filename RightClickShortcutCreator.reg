@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Run Batch script]
+@="&Run GoPro Formatter"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Run Batch script\command]
+@="C:\ProgramData\GoProFormatter\GoProFormat.pyt %L"
